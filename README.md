@@ -33,9 +33,9 @@ In order to decrease repeated code shanks, increase the time that can read the c
 Any kind of enhancement or contribution is welcomed.
 
  
-![alt text](images/Group18 HW4_page-0022.jpg)
-![alt text](images/Group18 HW4_page-0023.jpg)
-![alt text](images/Group18 HW4_page-0024.jpg)
+![alt text](images/Group18 HW4_page-0022.jpg)\
+![alt text](images/Group18 HW4_page-0023.jpg)\
+![alt text](images/Group18 HW4_page-0024.jpg)\
 ![alt text](images/Group18 HW4_page-0025.jpg)
 ![alt text](images/Group18 HW4_page-0026.jpg)
 ![alt text](images/Group18 HW4_page-0027.jpg)
